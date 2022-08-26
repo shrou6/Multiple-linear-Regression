@@ -16,11 +16,11 @@ We are required to model the demand for shared bikes with the available independ
 
 
 ### Steps
-1.import library
-2.import Dataset
-3.Explorint Dataset
-4.Removing unwanted columns
-5.Split data to train,test
+1. import library
+2. import Dataset
+3. Explorint Dataset
+4. Removing unwanted columns
+5. Split data to train,test
 6. Rescaling the frature
 7. Buliding linear Model
 8. Plot Model 
